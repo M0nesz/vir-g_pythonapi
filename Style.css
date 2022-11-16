@@ -1,0 +1,59 @@
+body{
+    background-color: #EDE4E0;
+    color: #665A48;
+    background-image: url('./flowers.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #665A48;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: #C8DBBE;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #665A48;
+}
+thead{
+    background-color: none;
+    border: none;
+    color: black;
+}
+table{
+    border: none;
+    background-color:none;
+}
+td{
+    background-color: none;
+    border: none;
+}
+button{
+    background-color: #C8DBBE;
+    color: #665A48;
+    border: 1px solid #665A48;
+
+}
+input{
+    background-color: #C8DBBE;
+    border: 1px solid #665A48;
+
+}
+
